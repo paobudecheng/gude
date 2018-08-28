@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 a
 hehehehehehehehehehe
+=======
+aaaaaaaa
+>>>>>>> test
