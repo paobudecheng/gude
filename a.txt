@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-a
-hehehehehehehehehehe
-=======
-aaaaaaaa
->>>>>>> test
+aaaaaaa
+aaaaaaaaaaaa
+aaaaaaa
