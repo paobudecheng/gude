@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-heheheheheeheheheheeheh
-=======
 aaaaaaaa
 bbbbbbbb
 cccccccc
->>>>>>> test
